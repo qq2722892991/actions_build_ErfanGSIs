@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2141_A_1.16.4-update-full_1640072693.zip
-  ROM_NAME: origin
+  ROM_URL: https://rom.download.nubia.com/Europe%26Asia/NX669S/V633/NX669J-update.zip
+  ROM_NAME: RedMagios
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
