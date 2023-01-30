@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://rom.download.nubia.com/Europe%26Asia/NX669S/V633/NX669J-update.zip
+  ROM_URL: https://rom.download.nubia.com/Europe%26Asia/NX709S/V318/NX709S-update.zip
   ROM_NAME: RedMagios
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
