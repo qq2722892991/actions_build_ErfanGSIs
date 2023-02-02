@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://romdownload.nubia.com/%E7%BA%A2%E9%AD%946/V8.14/NX669J-update.zip
+  ROM_URL: http://romdownload.nubia.com/%E7%BA%A2%E9%AD%946/V2.42/NX669J-update.zip
   ROM_NAME: RedMagic
   BUILD_TYPE: ab
   TZ: Asia/xiāng gǎng
