@@ -14,10 +14,10 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus7TProOxygen_14.E.35_OTA_0350_all_2206171522_b0dd48e7338a478a.zip
-  ROM_NAME: One
+  ROM_URL: http://romdownload.nubia.com/%E7%BA%A2%E9%AD%946R/V2.17/NX666J-update.zip
+  ROM_NAME: RedMagic
   BUILD_TYPE: ab
-  TZ: Asia/Shanghai
+  TZ: Asia/xiāng gǎng
 
 jobs:
   build:
