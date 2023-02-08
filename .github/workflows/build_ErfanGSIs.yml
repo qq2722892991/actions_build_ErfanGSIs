@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: '直链'
         required: true
-        default: 'https://mirrorbits.lineageos.org/full/tissot/20230110/lineage-19.1-20230110-nightly-tissot-signed.zip'
+        default: 'http://romdownload.nubia.com/%E7%BA%A2%E9%AD%947Pro/V2.35/NX709J-update.zip'
       REPACK_NAME:
         description: '打包名称'
         required: true
-        default: '这里写名字哦.7z'
+        default: 'NX709J.7z'
       ROM_TYPE:
         description: 'ROM类型'
         required: true
-        default: 'Generic'
+        default: 'AB'
 jobs:
   Build_tosasitill0202:
     runs-on: ubuntu-20.04
